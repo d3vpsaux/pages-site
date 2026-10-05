@@ -31,34 +31,34 @@
 
   "group": {
     // Full name, as you want it in the page title and header
-    "name": "Maple Street Kids Club",
+    "name": "Personal Site for Michael Richardson",
     // Unit number if you have one ("1125" for Pack 1125). "" if none.
     "number": "",
     // Short motto or tagline
     "tagline": "Learn by doing. Have fun together.",
-    "city": "Springfield",
+    "city": "",
     // State, province, or region
     "region": "VA",
     // Year started ("" to hide)
     "founded": "2026",
     // One or two sentences for the home page and search results
-    "description": "A free, family-friendly club where kids learn new skills, get outdoors, and help their community.",
+    "description": "A personal site for musings, research, and code respository.",
     // Who you serve, e.g. which schools or neighborhoods ("" to hide)
     "serves": "Families in the Maple Street and Oak Hill neighborhoods."
   },
 
   "meetings": {
     // How often and when
-    "summary": "2nd and 4th Tuesdays, 6:30–7:30 PM",
+    "summary": "",
     // Where. Keep it general (building name + town) for kids' privacy.
-    "location": "Springfield Community Center, Springfield VA",
+    "location": "",
     // Season or months you meet ("" to hide)
-    "season": "September through May"
+    "season": ""
   },
 
   "contact": {
     // Use a shared group email, not a personal one
-    "email": "hello@example.org",
+    "email": "d3vpsaux@gmaail.com",
     // Optional phone. Think twice before publishing a personal cell number.
     "phone": "",
     // Optional social links: { "name": "Facebook", "url": "https://..." }
